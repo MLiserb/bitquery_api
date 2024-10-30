@@ -3,7 +3,7 @@ import Chart from 'chart.js/auto';
 
 const apiUrl = 'https://graphql.bitquery.io';
 const apiKey = '';
-const bearerToken = 'ory_at_bdcuID6qQ7yBQnN7iFIX27bbPNL9oLNgpxanG5_yPRw.UEqTyM4Iyg1EdOuRNwRqbYFSY8HUp2_a2s8sXgbxh0Y';
+const bearerToken = '';
 
 let chart;
 let chartData;
